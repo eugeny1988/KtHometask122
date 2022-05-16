@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652560744166</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Modified conditions in if-else expression">
+      <created>1652611142806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652611142806</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +122,7 @@
     <MESSAGE value="Add .gitignore" />
     <MESSAGE value="Replaced var to val" />
     <MESSAGE value="Reformat code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformat code" />
+    <MESSAGE value="Modified conditions in if-else expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified conditions in if-else expression" />
   </component>
 </project>
